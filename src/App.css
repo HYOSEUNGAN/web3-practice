@@ -1,0 +1,16 @@
+.User {
+  margin: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.logo {
+  display: flex;
+  margin: 15px;
+}
+.menu {
+  display: flex;
+  list-style-type: none;
+}
+.menu li {
+  padding: 10px;
+}
